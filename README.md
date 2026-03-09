@@ -10,6 +10,8 @@
 
 ## 🎖️ Competition Achievement
 
+![Uploading runner up awards.png…]()
+
 **This Power BI solution was recognized as RUNNER-UP** in the European Pharmacy Sales & Profitability Analytics Challenge, competing against analytics professionals across multiple countries. The solution was evaluated on:
 
 - ✅ **Data Storytelling Excellence** - Clear narrative flow across 3 interconnected pages
@@ -112,6 +114,8 @@ Each page builds upon insights from the previous, creating a cohesive analytical
 ---
 
 ## 🏢 Page 1: Enterprise Performance Overview
+
+<img width="1306" height="733" alt="Screenshot_14" src="https://github.com/user-attachments/assets/a1ab3d9f-6651-4e4c-a04c-1b199bf368ad" />
 
 ### Purpose
 Provide a **high-level executive summary** of revenue, margin, and geographic contribution for rapid decision-making.
@@ -341,6 +345,8 @@ Shows below the chart:
 ---
 
 ## 🏬 Page 2: Operational Efficiency & Store Performance
+
+<img width="1308" height="734" alt="Screenshot_15" src="https://github.com/user-attachments/assets/e70148fa-343a-45c4-ad5d-ecd4be212310" />
 
 ### Purpose
 Analyze **transaction behavior, pricing strategy, and store-level efficiency** to identify operational improvement opportunities.
@@ -639,6 +645,8 @@ FLEET MATURITY:
 ---
 
 ## 📦 Page 3: Product & Promotion Strategy Performance
+
+<img width="1307" height="732" alt="Screenshot_16" src="https://github.com/user-attachments/assets/59abca57-94a1-4987-a1ad-a3e8ddab1d6a" />
 
 ### Purpose
 Evaluate **product mix dynamics and promotional effectiveness** to optimize category strategy and pricing decisions.
