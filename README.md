@@ -3,7 +3,7 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
 [![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]()
-[![Award](<img width="2000" height="1414" alt="runner up awards" src="https://github.com/user-attachments/assets/9352885b-3a32-4aa5-b267-2d476ece3d97" />)]
+[![Award](https://img.shields.io/badge/Award-Runner--Up-silver?style=for-the-badge&logo=trophy)]()
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)]()
 
 ---
